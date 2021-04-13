@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @neelkamal0310
-- 👀 I’m interested in anything related to Linux and Python
-- 🌱 I’m currently trying to get into SysAdmin
+- 👋 Hi, I’m Neel
 - 💞️ I’m looking to collaborate on Python and Django projects
 - 📫 Reach me at neelkamal0310@gmail.com
 
